@@ -1,9 +1,9 @@
 # MarsRovers-ZUP
 
 Tecnologias e Ferramentas utilizados:
-Junit 
-Maven
-Eclipse
+- Junit 
+- Maven
+- Eclipse
 
 Compilação:
 Nenhuma diretiva específica de compilação
